@@ -1,1 +1,1 @@
-This is the holy trinity backend repository
+This is the holy trinity backend repository. The source files of the backend
